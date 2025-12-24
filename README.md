@@ -23,5 +23,5 @@ An example of 8 routes, shown with [Leaflet](https://github.com/Leaflet/Leaflet)
 
 ## Supported Regions
 The area in blue shown below:
-![range_1](https://github.com/andreytakhtamirov/trailblaze-pathsense/assets/70922688/9db4146e-74a8-44da-bb5d-1ffd4fd29063)
-<img width="1136" alt="calgary" src="https://github.com/andreytakhtamirov/trailblaze-pathsense/assets/70922688/d0200d81-d4b4-4bd8-b6a0-fdf2cdd79142">
+![range_1](https://github.com/andreytakhtamirov/tiling-routing-engine/assets/70922688/9db4146e-74a8-44da-bb5d-1ffd4fd29063)
+<img width="1136" alt="calgary" src="https://github.com/andreytakhtamirov/tiling-routing-engine/assets/70922688/d0200d81-d4b4-4bd8-b6a0-fdf2cdd79142">
