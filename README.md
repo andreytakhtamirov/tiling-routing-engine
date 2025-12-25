@@ -13,9 +13,3 @@ Since all calculation is done real-time, other data (traffic, user feedback, env
 <img width="1400" src="https://github.com/andreytakhtamirov/tiling-routing-engine/assets/70922688/1ee9a395-ad05-4f09-944d-7c1faec589cc">
 
 An example of 8 routes, shown with [Leaflet](https://github.com/Leaflet/Leaflet), along with their surface metrics. Note how there are so many different paths that are better than what Google will give you (at least for gravel cycling)!
-
-
-## Supported Regions
-The area in blue shown below:
-![range_1](https://github.com/andreytakhtamirov/tiling-routing-engine/assets/70922688/9db4146e-74a8-44da-bb5d-1ffd4fd29063)
-<img width="1136" alt="calgary" src="https://github.com/andreytakhtamirov/tiling-routing-engine/assets/70922688/d0200d81-d4b4-4bd8-b6a0-fdf2cdd79142">
